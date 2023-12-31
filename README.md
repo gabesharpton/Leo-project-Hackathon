@@ -1,7 +1,8 @@
 # Leo-project-Hackathon
 A dashboard for a water management system using Node-RED and connected to a MySQL database. A team of 4 people with a 48-hour hackathon, Team 4 of WGU Hackathon 2023.
-> Link to video demonstration presented by Gabriel Sharpton.
->  [Leo Project dashboard presentation](https://youtu.be/CWRGOHWoWFc)
+> Click the picture below to view the video demonstration on YouTube presented by Gabriel Sharpton.
+> 
+>  [![Leo Project dashboard presentation](/mq2.webp)](https://youtu.be/CWRGOHWoWFc)
 # Pre-Requisite
 1. Install Node-Red on your computer locally. Use this address for more information if needed https://nodered.org/docs/getting-started/local
 2. Import the Flows.json file or copy and paste it later.
